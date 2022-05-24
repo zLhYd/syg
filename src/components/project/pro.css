@@ -1,0 +1,54 @@
+.pro {
+  font-size: 50px;
+  margin-left: 4.8em;
+  margin-top: 2em;
+  font-weight: bold;
+}
+
+.pro-c {
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 12.1em;
+  color: rgb(55 65 81);
+}
+
+.card {
+  margin-top: 2em;
+  width: 90%;
+}
+
+.card-title {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+
+.card-text {
+  color: gray;
+}
+
+.card:hover {
+  border: 2px solid rgb(33, 174, 33);
+}
+
+.foot2 {
+  margin-top: 3em;
+  margin-left: 32em;
+  color: gray;
+  font-weight: 600;
+}
+
+.foot2 i {
+  color: red;
+}
+
+@media only screen and (max-width: 600px) {
+  .pro {
+    margin-left: 0.7em;
+  }
+
+  .pro-c {
+    margin-left: 1.8em;
+  }
+}
+

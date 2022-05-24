@@ -1,0 +1,89 @@
+.home {
+  margin-left: 20rem;
+  margin-top: 7rem;
+}
+
+.nama {
+  font-weight: 600;
+  font-size: 50px;
+}
+
+.word {
+  width: 70%;
+  font-size: 20px;
+  font-weight: 500;
+  color: rgb(55 65 81);
+}
+
+.word2 {
+  font-weight: 600;
+}
+
+.l-blog {
+  margin-top: 3em;
+}
+
+.b {
+  font-size: 25px;
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(33, 174, 33);
+}
+
+.b2 {
+  width: 70%;
+  font-size: 17px;
+  font-weight: 500;
+  color: gray;
+}
+
+.b:hover {
+  color: rgb(33, 174, 33);
+}
+
+.read {
+  font-weight: bold;
+  text-decoration: none;
+  color: rgb(33, 174, 33);
+}
+
+.read:hover {
+  color: rgb(33, 174, 33);
+}
+
+.read2 {
+  font-weight: bolder;
+  margin-left: 35em;
+  color: rgb(33, 174, 33);
+}
+
+.read2:hover {
+  color: rgb(33, 174, 33);
+}
+
+.foot {
+  margin-top: 3em;
+  color: gray;
+  font-weight: 600;
+}
+
+.foot i {
+  color: red;
+}
+
+@media only screen and (max-width: 600px) {
+  .home {
+    margin-left: 3em;
+    margin-top: 5em;
+  }
+  .nama {
+    font-size: 40px;
+  }
+  .word {
+    width: 90%;
+  }
+
+  .b2 {
+    width: 90%;
+  }
+}

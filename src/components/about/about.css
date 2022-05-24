@@ -1,0 +1,136 @@
+.ab {
+  margin-left: 20em;
+  margin-top: 5em;
+}
+.ab h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.me {
+  margin-top: 1.4em;
+  width: 67%;
+  font-size: 20px;
+  font-weight: 534;
+  color: rgb(87, 87, 87);
+}
+
+.work {
+  margin-top: 4rem;
+}
+
+.work h2 {
+  margin-bottom: 3rem;
+}
+
+.about2 {
+  margin-top: 3rem;
+}
+
+.about2 h2 {
+  margin-bottom: 3rem;
+}
+
+.wo {
+  font-size: 19px;
+  font-weight: 550;
+  color: rgb(55 65 81);
+}
+
+.wo a {
+  margin-left: 0.4em;
+  font-weight: 600;
+  text-decoration: none;
+  color: rgb(33, 174, 33);
+  border-bottom: 1.5px solid rgb(33, 174, 33);
+}
+
+.wo2 {
+  font-size: 19px;
+  font-weight: 550;
+  color: rgb(55 65 81);
+}
+
+.wo2 a {
+  margin-left: 0.4em;
+  font-weight: 600;
+  text-decoration: none;
+  color: rgb(33, 174, 33);
+  border-bottom: 1.5px solid rgb(33, 174, 33);
+}
+
+.progres {
+  margin-top: 4rem;
+}
+
+.progres hr {
+  font-weight: 400;
+  width: 80%;
+  margin-top: 3em;
+  margin-right: 11em;
+}
+
+.wo3 {
+  font-size: 19px;
+  font-weight: 550;
+  color: rgb(55 65 81);
+}
+
+.progres2 {
+  margin-top: 4rem;
+}
+
+.progres2 hr {
+  font-weight: 400;
+  width: 80%;
+  margin-top: 3em;
+  margin-right: 11em;
+}
+
+.progres h2 {
+  margin-bottom: 1em;
+}
+
+.progres2 h2 {
+  margin-bottom: 1em;
+}
+
+@media only screen and (max-width: 600px) {
+  .ab {
+    margin: 0;
+  }
+  .zul {
+    margin-top: 2em;
+    margin-left: 0.6em;
+  }
+  .me {
+    margin-left: 1.3em;
+    width: 90%;
+  }
+  .work h2 {
+    font-size: 35px;
+    margin-left: 0.6em;
+  }
+  .wo {
+    margin-left: 1.2em;
+  }
+  .about2 h2 {
+    font-size: 35px;
+    margin-left: 0.6em;
+  }
+  .wo2 {
+    margin-left: 1.2em;
+  }
+  .progres h2 {
+    margin-left: 0.7em;
+  }
+  .wo3 {
+    margin-left: 1.2em;
+  }
+  hr {
+    margin-left: 2em;
+  }
+  .progres2 h2 {
+    margin-left: 0.8em;
+  }
+}

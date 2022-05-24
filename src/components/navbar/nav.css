@@ -1,0 +1,13 @@
+.navbar-brand {
+  width: 40px;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 10em;
+}
+
+.navbar-nav .nav-item a {
+  margin-right: 1em;
+  font-weight: 600;
+}
