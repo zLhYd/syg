@@ -1,6 +1,5 @@
 import React from "react";
 import "./nav.css";
-import d from "../../components/img/d.png";
 
 const Nav = () => {
   return (
@@ -24,7 +23,6 @@ const Nav = () => {
                 Home
               </a>
             </li>
-
             <li className="nav-item ms-5">
               <a className="nav-link active" href="/about">
                 About

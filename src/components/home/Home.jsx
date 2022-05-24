@@ -9,7 +9,7 @@ function Home() {
         Hi, i'm Front End Developers. Who like to make website using React Js
         And Bootsrap.{" "}
         <a className="read" href="/about">
-          Read About Me <i class="bi bi-arrow-right-short"></i>
+          Read About Me <i className="bi bi-arrow-right-short"></i>
         </a>{" "}
       </p>
       <div className="l-blog">
