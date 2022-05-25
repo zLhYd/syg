@@ -80,10 +80,13 @@
     font-size: 40px;
   }
   .word {
-    width: 90%;
+    width: 100%;
   }
 
   .b2 {
     width: 90%;
+  }
+  .read2 {
+    margin-left: 0;
   }
 }
