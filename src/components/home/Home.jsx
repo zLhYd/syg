@@ -36,7 +36,7 @@ function Home() {
         </div>
       </div>
       <a href="#" className="read2">
-        Read Post <i class="bi bi-arrow-right-short"></i>
+        Read All Post <i class="bi bi-arrow-right-short"></i>
       </a>
       <footer>
         <p className="foot">
