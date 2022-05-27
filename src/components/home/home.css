@@ -19,10 +19,6 @@
   font-weight: 600;
 }
 
-.l-blog {
-  margin-top: 3em;
-}
-
 .b {
   font-size: 25px;
   text-decoration: none;
@@ -53,7 +49,6 @@
 
 .read2 {
   font-weight: bolder;
-  margin-left: 35em;
   color: rgb(33, 174, 33);
 }
 
@@ -71,13 +66,35 @@
   color: red;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 400px) {
   .home {
-    margin-left: 3em;
+    margin-left: 1em;
+  }
+  .word {
+    font-size: 12px;
+    width: 100%;
+  }
+  .nama {
+    font-size: 30px;
+  }
+  .word2 {
+    font-size: 30px;
+  }
+  .b2 {
+    font-size: 14px;
+    width: 90%;
+  }
+  .read2 {
+  }
+}
+
+@media only screen and (min-width: 401px) and (max-width: 600px) {
+  .home {
+    margin-left: 1em;
     margin-top: 5em;
   }
   .nama {
-    font-size: 40px;
+    font-size: 30px;
   }
   .word {
     width: 100%;
