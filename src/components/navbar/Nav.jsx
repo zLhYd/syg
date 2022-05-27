@@ -19,11 +19,7 @@ const Nav = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto fw-bold">
             <li className="nav-item ms-5">
-              <a
-                className="nav-link active"
-                aria-current="page"
-                href="/ZlHyd99"
-              >
+              <a className="nav-link active" href="/aDi99">
                 Home
               </a>
             </li>
