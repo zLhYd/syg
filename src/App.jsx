@@ -12,14 +12,12 @@ import {
 const App = () => {
   return (
     <div>
-      <BrowserRouter>
-        <Nav />
-        <Routes>
-          <Route exact path="/zLhYd99" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/project" element={<Project />} />
-        </Routes>
-      </BrowserRouter>
+      <Nav />
+      <Routes>
+        <Route path="/zLhYd99" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/project" element={<Project />} />
+      </Routes>
     </div>
   );
 };
