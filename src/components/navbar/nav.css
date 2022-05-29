@@ -1,5 +1,6 @@
 .navbar-brand {
-  width: 40px;
+  font-weight: 500;
+  color: rgb(33, 174, 33);
 }
 
 .navbar-nav {

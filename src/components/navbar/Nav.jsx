@@ -5,6 +5,9 @@ const Nav = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div className="container">
+        <a class="navbar-brand" href="#">
+          zLhYd
+        </a>
         <button
           className="navbar-toggler"
           type="button"

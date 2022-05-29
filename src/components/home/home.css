@@ -69,13 +69,14 @@
 @media only screen and (max-width: 400px) {
   .home {
     margin-left: 1em;
+    margin-top: 4em;
   }
   .word {
-    font-size: 12px;
+    font-size: 14px;
     width: 100%;
   }
   .nama {
-    font-size: 30px;
+    font-size: 25px;
   }
   .word2 {
     font-size: 30px;

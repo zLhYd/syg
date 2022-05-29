@@ -95,42 +95,51 @@
   margin-bottom: 1em;
 }
 
-@media only screen and (max-width: 600px) {
-  .ab {
-    margin: 0;
-  }
+@media only screen and (max-width: 400px) {
   .zul {
     margin-top: 2em;
-    margin-left: 0.6em;
+    margin-left: 0.2em;
   }
   .me {
-    margin-left: 1.3em;
-    width: 90%;
+    margin-left: 0.5em;
+    font-size: 14px;
+    width: 100%;
+    padding-bottom: 1em;
   }
   .work h2 {
-    font-size: 35px;
-    margin-left: 0.6em;
+    font-size: 24px;
   }
   .wo {
-    margin-left: 1.2em;
+    margin-left: 0.5em;
   }
+  .wo2 a {
+    font-size: 16px;
+  }
+
   .about2 h2 {
-    font-size: 35px;
-    margin-left: 0.6em;
+    font-size: 24px;
   }
+
   .wo2 {
-    margin-left: 1.2em;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
   }
   .progres h2 {
-    margin-left: 0.7em;
+    margin-left: 0.5em;
+    margin-bottom: 0;
   }
   .wo3 {
-    margin-left: 1.2em;
-  }
-  hr {
-    margin-left: 2em;
+    font-size: 16px;
+    margin-left: 0.5em;
   }
   .progres2 h2 {
-    margin-left: 0.8em;
+    margin-left: 0.5em;
+    margin-bottom: 0;
+  }
+  .work h2 {
+    margin-left: 0.5em;
+  }
+  .about2 h2 {
+    margin-left: 0.5em;
   }
 }
