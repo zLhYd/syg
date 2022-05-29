@@ -5,10 +5,10 @@
 
 .navbar-nav {
   margin-left: auto;
-  margin-right: 10em;
+  margin-right: 9em;
 }
 
 .navbar-nav .nav-item a {
-  margin-right: 1em;
+  /* margin-right: 1em; */
   font-weight: 600;
 }
