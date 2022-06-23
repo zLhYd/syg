@@ -1,24 +1,26 @@
 .pro {
   font-size: 50px;
-  margin-left: 4.8em;
+  margin-left: 4em;
   margin-top: 2em;
   font-weight: bold;
 }
 
+.card-1 {
+  text-decoration: none;
+}
+
 .pro-c {
   font-size: 20px;
-  margin-left: 12.1em;
+  margin-left: 10em;
   font-weight: 500;
   color: rgb(55 65 81);
 }
 
 .card {
   margin-top: 2em;
-  width: 90%;
 }
 
 .card-title {
-  text-decoration: none;
   color: black;
   font-weight: 700;
 }
@@ -42,7 +44,7 @@
   color: red;
 }
 
-@media only screen and (max-width: 400px) {
+/* @media only screen and (max-width: 400px) {
   .pro {
     font-size: 30px;
     margin-left: 0.5em;
@@ -69,4 +71,4 @@
     margin-left: 2em;
     width: 80%;
   }
-}
+} */
