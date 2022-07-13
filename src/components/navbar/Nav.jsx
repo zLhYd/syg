@@ -20,7 +20,7 @@ const Nav = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav fw-bold">
             <li className="nav-item ">
-              <a className="nav-link active" href="/bro">
+              <a className="nav-link active" href="/adihantu">
                 Home
               </a>
             </li>
